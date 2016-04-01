@@ -1,0 +1,10 @@
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\bin\Debug\DataB.exe.config
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\bin\Debug\DataB.exe
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\bin\Debug\DataB.pdb
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\obj\Debug\DataB.csprojResolveAssemblyReference.cache
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\obj\Debug\DataB.Form1.resources
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\obj\Debug\DataB.Properties.Resources.resources
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\obj\Debug\DataB.csproj.GenerateResource.Cache
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\obj\Debug\DataB.exe
+c:\users\home_pc\documents\visual studio 2013\Projects\DataB\DataB\obj\Debug\DataB.pdb
+C:\Users\Home_Pc\Documents\Visual Studio 2013\Projects\DataB\DataB\obj\Debug\DataB.Form2.resources
